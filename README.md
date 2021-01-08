@@ -1,8 +1,6 @@
 # Classification-of-Quick-Draw-Images
-Team: Alpha Classifier
-
-Pavithra Parthasarathy (20182678)
-
+Team: Alpha Classifier<br/>
+Pavithra Parthasarathy (20182678)<br/>
 Arka Mukherjee (20182625)
 
 In this challenge, we use different Machine Learning and Deep Learning models to classify the images picked from the Quick Draw Dataset and compare their performances. The code for the best model is uploaded to this repo.
